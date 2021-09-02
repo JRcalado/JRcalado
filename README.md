@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/JRcalado/devicons/main/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/JRcalado/devicons/main/icons/html5/html5-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/JRcalado/devicons/main/icons/docker/docker-plain.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/JRcalado/devicons/main/icons/synfony/synfony-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/JRcalado/devicons/main/icons/symfony/symfony-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/JRcalado/devicons/main/icons/bash/bash-plain.svg">
  
 
