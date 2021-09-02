@@ -1,5 +1,4 @@
-### Olá!! 👋
-<i class="devicon-elixir-plain-wordmark colored"></i>
+##
 
 
 <div style="display: inline_block"><br>
@@ -17,11 +16,13 @@
  
 
 </div>
+##
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=JRcalado&show_icons=true&theme=dracula&count_private=true&include_all_commits=true">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRcalado&layout=compact&theme=dracula">
   
 </div>
+##
 
 
 
