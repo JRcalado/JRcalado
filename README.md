@@ -6,15 +6,15 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/JRcalado/devicons/main/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/JRcalado/devicons/main/icons/php/php-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/JRcalado/devicons/main/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/JRcalado/devicons/main/icons/elixir/elixir-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/JRcalado/devicons/main/icons/elixir/elixir-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/JRcalado/devicons/main/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/JRcalado/devicons/main/icons/linux/linux-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/JRcalado/devicons/main/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/JRcalado/devicons/main/icons/html5/html5-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/JRcalado/devicons/main/icons/docker/docker-plain.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/JRcalado/devicons/main/icons/synfony/synfony-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/JRcalado/devicons/main/icons/synfony/synfony-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/JRcalado/devicons/main/icons/bash/bash-plain.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/JRcalado/devicons/main/icons/angularjs/angularjs-plain.svg">
+ 
 
 </div>
 <div>
