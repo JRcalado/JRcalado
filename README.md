@@ -1,4 +1,5 @@
 ### Olá!! 👋
+<i class="devicon-elixir-plain-wordmark colored"></i>
 
 
 <div style="display: inline_block"><br>
