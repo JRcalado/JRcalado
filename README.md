@@ -5,4 +5,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JRcalado&show_icons=true&theme=radical&count_private=true">
 </div>
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JRcalado&repo=jogodavelha">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRcalado&layout=compact">
 
